@@ -2,6 +2,8 @@
 
 |                                                               |   |
 |---------------------------------------------------------------|---|
+| Funciona como console app                                     | ✔ |
+| IIS Express                                                   | ✔ |
 | BackgroundServices                                            | ✔ |
 | postgreSQL                                                    | ✔ |
 | .Net Core 1.3                                                 | ✔ |
